@@ -1,2 +1,2 @@
-# Web Requests
- Contains an Asynchio script that can be edited for making many API calls at once.  It was coded using Jupyter lab.
+# Python Scripts
+ Contains some scripts I've built while brushing up on Python. The first is one that allows you to use Asynchio for more rapid HTTP requests.

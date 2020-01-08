@@ -1,0 +1,4 @@
+Unused/
+*.log
+*.csv
+/.ipynb_checkpoints

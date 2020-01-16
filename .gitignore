@@ -2,3 +2,5 @@ Unused/
 *.log
 *.csv
 /.ipynb_checkpoints
+.ipynb_checkpoints/HTTP_Request_Standard-checkpoint.ipynb
+.ipynb_checkpoints/HTTP_Request_Standard-checkpoint.ipynb
